@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.group{
+  display: flex;
+}
+
+.person {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.person-name {
+  color: blueviolet;
+  font-size: 24px;
+}
+.person-age {
+  color: #e28161;
+}
+
+.add-age {
+
+}
